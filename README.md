@@ -47,11 +47,11 @@ cd human-interactome-project
 This work was carried out as part of my Master's Thesis at the Barcelona Supercomputing Center (BSC). 
 I am deeply grateful to my supervisors, Jon Sánchez and Iker Núñez, for their guidance and expertise throughout this project. 
 Special thanks to the BSC team for facilitating access to computational resources.
-
+feedback
 ## Contact
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- Email: [dblazquezg99@gmail.com](dblazquezg99@gmail.com)
+- Email: [dblazquezg99@gmail.com](mailto:dblazquezg99@gmail.com)
 - LinkedIn: [David Blázquez García](https://www.linkedin.com/in/dblazquezg/)
 
 
