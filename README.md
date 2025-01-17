@@ -38,7 +38,7 @@ The repository is organized as follows:
 ## How to Use
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/human-interactome-project.git
+git clone https://github.com/ydblazwel/interactomeRwR.git
 cd human-interactome-project
 ```
 2. Run individual scripts from the scripts/ folder for specific tasks (e.g. network construction, diffusion analysis)
